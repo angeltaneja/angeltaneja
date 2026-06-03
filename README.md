@@ -82,6 +82,14 @@ I am an **AI/ML Engineer** specializing in designing production-grade LLM archit
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=angeltaneja&theme=nord&column=7" alt="angeltaneja trophies" width="98%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angeltaneja&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeltaneja&layout=compact&theme=nord" alt="Top Languages" width="48%" />
 </div>
