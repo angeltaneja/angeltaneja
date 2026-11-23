@@ -94,12 +94,8 @@ I am an **AI/ML Engineer** specializing in designing production-grade LLM archit
 ### GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeltaneja&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angeltaneja&show_icons=true&theme=nord" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeltaneja&layout=compact&theme=nord" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeltaneja&theme=nord" alt="GitHub Streak" width="98%" />
 </div>
 
 ---
