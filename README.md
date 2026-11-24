@@ -85,18 +85,13 @@ I am an **AI/ML Engineer** specializing in designing production-grade LLM archit
 * **Description:** A premium, real-time meeting intelligence dashboard that automates audio ingestion from YouTube, transcribes multi-lingual audio (local Whisper + Sarvam STT), and generates bulleted action items, summaries, and Q&A chat contexts.
 * **Tech Stack:** Python, Streamlit, LangChain, Groq API (Llama 3.3), Sarvam AI API, ChromaDB.
 
+#### [AFS-VFM: Benchmarking Vision Foundation Models](https://github.com/amanvex/AFS-VFM)
+* **Description:** Co-authored research benchmarks evaluating Vision Foundation Models (DINOv2, ViT) across 150,000+ model inferences under distribution shifts and domain corruptions. Engineered evaluation pipelines, failure boundary detection, and automated robustness analysis.
+* **Tech Stack:** PyTorch, Vision Foundation Models (VFMs), Computer Vision, Benchmark Harnesses, Python.
+
 #### [RetailSmartAI - Dynamic Pricing Engine](https://github.com/angeltaneja/retail-smart-ai)
 * **Description:** Built a multimodal pricing algorithm combining sentiment summaries of 50K+ reviews indexed in FAISS with LSTM/CNN outputs into an XGBoost model. Reached **92% price prediction accuracy**.
 * **Tech Stack:** LangChain, FAISS, XGBoost, LSTM, CNN.
-
----
-
-### GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeltaneja&show_icons=true&theme=nord" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeltaneja&layout=compact&theme=nord" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
@@ -114,9 +109,4 @@ I am an **AI/ML Engineer** specializing in designing production-grade LLM archit
   <a href="https://github.com/angeltaneja" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=angeltaneja&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
